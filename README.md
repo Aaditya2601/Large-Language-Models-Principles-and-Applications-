@@ -345,5 +345,4 @@ jupyter notebook notebooks/04_evaluation.ipynb
 
 </div>
 
-*Business Analytics Project · Jigsaw Toxic Comment Classification Dataset*
 
